@@ -28,6 +28,12 @@ const Header = () => {
       >
         Menu
       </Link>
+      <Link
+        href="/search"
+        className="px-2 py-1 bg-white text-blue-500 rounded-lg mx-2.5"
+      >
+        Search
+      </Link>
     </header>
   );
 };
